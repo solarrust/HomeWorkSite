@@ -13,7 +13,7 @@
 
 ## Фото претендента:
 
-![](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/kalan/Desktop/HomeworkSite/1664314465787.jpg?version%3D1664314731363)
+
 
 ### Контакты:
 Самостоятельно отвечать еще не обучен. Связь деражать через Хозяина - kalanree72@gmail.com
