@@ -13,7 +13,7 @@
 
 ## Фото претендента:
 
-![1664314465787](https://user-images.githubusercontent.com/113265149/192649583-6283a07a-4f92-4ee2-bb57-ebdf6c99c529.jpg)
+![1664314465787](https://github.com/Kalanree/HomeWorkSite/blob/main/1664314465787.jpg)
 
 ### Контакты:
 Самостоятельно отвечать еще не обучен. Связь деражать через Хозяина - kalanree72@gmail.com
